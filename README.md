@@ -1,4 +1,4 @@
-#Faeria-Pandora-Stat-Ripper
+#faeria-pandora-stats
 
 Scrapes the faeria pandora stats and persists them to mongo for further analysis.
 
