@@ -6,6 +6,11 @@ This only populates a mongo database.  There is no way to view the data in any p
 
 ##Install
 
+Requires
+
+* node.js v6.*
+* mongodb
+
 ```bash
  $ git clone https://github.com/Tidwell/faeria-pandora-stats.git
  $ cd faeria-pandora-stats
