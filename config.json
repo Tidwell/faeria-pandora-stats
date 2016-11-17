@@ -1,0 +1,7 @@
+{
+	"scrapeFrequencyMins": 10,
+	"statusPort": 8961,
+	"mongoUrl": "mongodb://localhost:27017/faeria-pandora-stats",
+	"mongoCollection": "ratings",
+	"logFile": "./faeria-pandora-stats.log"
+}
